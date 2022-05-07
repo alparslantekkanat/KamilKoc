@@ -1,0 +1,36 @@
+﻿@model IEnumerable<Trip>
+
+
+
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+                        <div class="col-4">
+                            <partial name="_TripCard" model="@item">   
+                        </div>
+
+    }
+</div>
+
+
+
+        <ul class="pagination pagination-lg">
+    @for (var i = 1; i <= ViewBag.TotalPages; i++)
+
+             {
+                     <li class="page-item"><a class="page-link" asp-action ="Index" asp-route-page="@i">@i</a></li>
+
+             }
+
+
+         </ul>
+
+       
+
+
+

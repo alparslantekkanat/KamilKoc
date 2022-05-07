@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0893261d-8160-483e-9e89-d6d473e9edda": {
+      "ProjectGuid": "0893261d-8160-483e-9e89-d6d473e9edda",
+      "DisplayName": "CloudTours.Management.Application",
+      "ColorIndex": 0
+    },
+    "e59c2486-e019-411d-9205-bab2ef8d17e1": {
+      "ProjectGuid": "e59c2486-e019-411d-9205-bab2ef8d17e1",
+      "DisplayName": "CloudTours.Management.Presentation",
+      "ColorIndex": 1
+    },
+    "b0f72430-851b-4a75-bade-ff10bda24673": {
+      "ProjectGuid": "b0f72430-851b-4a75-bade-ff10bda24673",
+      "DisplayName": "CloudTours",
+      "ColorIndex": 2
+    },
+    "9b7adf99-9b91-49f2-8b54-31987c2a522a": {
+      "ProjectGuid": "9b7adf99-9b91-49f2-8b54-31987c2a522a",
+      "DisplayName": "CloudTours.Domain",
+      "ColorIndex": 3
+    },
+    "8e213ffe-649e-4d0e-afed-c0c96b2e1b9d": {
+      "ProjectGuid": "8e213ffe-649e-4d0e-afed-c0c96b2e1b9d",
+      "DisplayName": "CloudTours.Persistence",
+      "ColorIndex": 4
+    },
+    "6713e768-bcbe-41af-b0f4-cf1da70a2a92": {
+      "ProjectGuid": "6713e768-bcbe-41af-b0f4-cf1da70a2a92",
+      "DisplayName": "CloudTours.Management.DataAccess",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}
